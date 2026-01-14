@@ -3,3 +3,24 @@ html {
     width: 100%;
   }
   
+
+/* **Hacer** que todos los elementos `h1` sean de color verde */
+h1 {
+  color: green;
+}
+
+/* **Crear** la clase `"blue"` y aplicar el color azul al texto */
+.blue {
+  color: blue;
+}
+
+/* **Crear** un ID igual a `"red"` y aplicar el color rojo al texto */
+#red {
+  color: red;
+}
+
+/*Imagen pequeña */
+img {
+  width: 500px;
+  height: auto;
+}
